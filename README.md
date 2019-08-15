@@ -11,6 +11,8 @@ The following disclaimer should be pasted verbatim at the beginning of each docu
 ----------------------------
 Disclaimer to be added to the beginning of each document.
 ```
+Licence: Creative Commons - Share Alike
+
 Disclaimer 1 :
 The information in the document is not meant to be used first point of reference in any of the medical interventions.This is just a compilation of information for academic and knowledge purposes.
 
