@@ -2,11 +2,18 @@ Licence: Creative Commons - Share Alike
 
 Please type below this line
 
+[README.md]
+
 -----------------------------
 
 # History taking in the clinical process #
 
-
+Dummy text - replace with actual discussion items
+Dummy text - replace with actual discussion items
+Dummy text - replace with actual discussion items
+Dummy text - replace with actual discussion items
+Dummy text - replace with actual discussion items
+Dummy text - replace with actual discussion items
 
 
 
